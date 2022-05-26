@@ -1,0 +1,19 @@
+3
+Luis
+Garcia
+1111 yes
+.05
+tech9@ttu.edu
+8067733787
+Christopher
+Hala
+2222 no
+100
+chris8@ttu.edu
+8065542211
+Jerome
+Cala
+3333 yes
+.10
+waffles7@ttu.edu
+8065551122
